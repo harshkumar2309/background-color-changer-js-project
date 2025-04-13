@@ -32,3 +32,6 @@ span {
 #yellow {
   background: yellow;
 }
+#random {
+  background: linear-gradient(45deg, #ff6ec4, #7873f5);
+}
